@@ -1,7 +1,9 @@
-# Installation 
-```
 apt install python3
-git clone https://github.com/dark-levi/tornado
+
+git clone https://github.com/dark-levi/dods
+
 pip3 install -r requirements.txt
-cd tornado
-python3 Tornado.py
+
+cd dods
+
+python3 dods
